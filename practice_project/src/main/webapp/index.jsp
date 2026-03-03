@@ -15,7 +15,7 @@
 			<li class="nav-li"><a href="#">주문목록조회</a></li>
 			<li class="nav-li"><a href="#">점포별주문현황</a></li>
 			<li class="nav-li"><a href="#">제품코드조회</a></li>
-			<li class="nav-li"><a href="#">홈으로</a></li>
+			<li class="nav-li"><a href="index.jsp">홈으로</a></li>
 		</ul>
 	</header>
 	<section>
